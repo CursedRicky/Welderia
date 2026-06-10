@@ -1,4 +1,4 @@
-![[hubria.jpg]]
+![[/static/hubria.jpg]]
 
 La Guerra Della Magia  
 ---  
