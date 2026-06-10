@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: cursedricky.github.io
+  baseUrl: cursedricky.github.io/Welderia
   ignorePatterns:
     - private
     - templates
