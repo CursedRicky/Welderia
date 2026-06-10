@@ -12,7 +12,7 @@ Così da allora Welderia è ricca di vita di ogni genere, buona o malvagia che s
 
 Continenti conosciuti
 ---
-[[Hubria]]
+[[/continenti/Hubria]]
 
 La Magia
 ---
