@@ -15,16 +15,9 @@ La guerra venne terminata a seguito di un trattato di pace firmato dalle 2 emerg
 La Nuova Era  
 ---  
 Una commissione formata da elementi di entrambi gli schieramenti decise di deliniare l'anno del trattato di pace come anno 0 del nuovo calendario, e lo si prese come simbolo per una pace duratura tra tutto il continente.  
-Da questi avvenimenti ha inizio il periodo che gli storici deliniano come la "nuova era", un periodo di pace e prosperità per il continente, ma che in realtà cela continui spionaggi e di velati confilliti fra le 2 capitali, Umbrale e Darusa, generando un vero periodo di guerra fredda.
-
-Le Capitali
----
-Vere vincitrici della Guerra della magia sono ad oggi i due maggiori punti di influenza economica dell'intero continente
-
-#### Umbrale
-
-
+Da questi avvenimenti ha inizio il periodo che gli storici deliniano come la "nuova era", un periodo di pace e prosperità per il continente, ma che in realtà cela continui spionaggi e di velati confilliti fra le 2 capitali, [[Picchi di bronzo#Umbrale, la città del metallo|Umbale]] e Darusa, generando un vero periodo di guerra fredda.
 
 Zone
 ---
 [[Deserto del Dongar]]
+[[Picchi di bronzo]]

@@ -1,0 +1,11 @@
+Umbrale, la città del metallo
+---
+Situata nella zona più a ovest sulla cima di uno dei più alti monti, Umbrale è una delle due città emerse vincitrici dalla guerra.
+Fu fondata nel periodo pre-bellico da Zirakri Pugno di Ferro, il creatore del motore a vapore.
+La città è profondamente pervasa da uno spirito di continua innovazione: le più grandi scoperte e invenzioni del continente appartengono proprio a questa città. Tra gli ultimi baluardi della tecnologia si trovano i portentosi treni a vapore che corrono tra i tunnel scavati dai nani nelle montagne per semplificare le tratte; le navi volanti, che insieme al treno sono gli unici modi per raggiungere la città al giorno d'oggi; il Cristallofono, unica invenzione rilasciata al pubblico utilizzante la magia permette di comunicare con un'altra persona a qualsiasi distanza una volta che i due dispositivi hanno formato un legame.
+
+Sin dalle sue origini la città è amministrata dal consiglio massimo cittadino, formato dai 7 cittadini più influenti della città eletti in modo democratico ogni 3 anni.
+
+Durante il periodo di guerra la città subì ingenti perdite, sia dal punto di vista di vite umane che per quanto riguarda le costruzioni, distrutte dagli eserciti nemici e da piccoli gruppi di anarchici interni. A seguito del trattato di pace il consiglio massimo cittadino creò quella che oggi è chiamata "[[Associazioni note#La Gilda Dell'Argano|La Gilda Dell'Argano]]", una gilda mercenaria con il compito di ricostruire la città dalle fondamenta, associazione che successivamente sarebbe diventata l'esercito nazionale non riconosciuto della città.
+
+Seppur nel periodo bellico la città discriminasse totalmente la magia, con il tempo capì che era necessario conviverci. Ad oggi gli utilizzatori di magia sono pochi e malvisti, inoltre non è legale utilizzare senza il consenso del consiglio massimo cittadino. Nonostante le discriminazioni che gli abitanti portano avanti nei confronti della magia essa è utilizzata in alcune delle nuove tecnologie sviluppate dalla città.
